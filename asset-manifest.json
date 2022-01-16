@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todolist-colorized/static/css/main.5b39bf6f.css",
+    "main.js": "/todolist-colorized/static/js/main.472a0ab8.js",
+    "index.html": "/todolist-colorized/index.html",
+    "main.5b39bf6f.css.map": "/todolist-colorized/static/css/main.5b39bf6f.css.map",
+    "main.472a0ab8.js.map": "/todolist-colorized/static/js/main.472a0ab8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b39bf6f.css",
+    "static/js/main.472a0ab8.js"
+  ]
+}
